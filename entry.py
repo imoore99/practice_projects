@@ -1,4 +1,6 @@
-
+'''
+Test project to sample entry fields and utilize entry inputs as variables
+'''
 from tkinter import *
 
 root = Tk()
